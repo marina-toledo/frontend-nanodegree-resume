@@ -108,11 +108,17 @@ var projects = {
     {
         "title": "sample project 1",
         "dates": "2016",
-        "description": "web project",
+        "description": "Resume with Javascript",
         "images": [
-                    "http://data.whicdn.com/images/22565834/large.jpg",
-                    "https://files.graphiq.com/stories/t2/tiny_cat_12573_8950.jpg"]
-    }
+                    "https://camo.githubusercontent.com/f4c154444bc91d29cab9f120a480277f673015f5/687474703a2f2f692e696d6775722e636f6d2f7057553158626c2e706e67"]
+    },
+    {
+        "title": "sample project 2",
+        "dates": "2017",
+        "description": "web projects",
+        "images": [
+                    "http://fremantledcc.com.au/wp-content/uploads/2014/04/Construction-Tape.jpg"]
+    },
     ]
 };
 
